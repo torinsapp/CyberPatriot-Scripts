@@ -1,7 +1,5 @@
 #!/bin/bash
 clear
-echo "Created by Matthew Bierman, Lightning McQueens, Faith Lutheran Middle & High School, Las Vegas, NV, USA"
-echo "Last Modified on Friday, January 19th, 2016, 4:20pm"
 echo "Linux Debian Script"
 startTime=$(date +"%s")
 printTime()
